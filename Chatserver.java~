@@ -1,7 +1,7 @@
 import java.io.*;
 import java.net.*;
  
-class Chatserver
+class UDPServer
 {
 public static void main(String args[]) throws Exception
       {
